@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&family=Roboto:wght@100;400;500;700&display=swap');
+.contactos{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.parrafo{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.imagen{
+    width: 350px;
+    height: 350px;
+    border-radius: 30px;
+}
+.facebook{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.imagens{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.parrafos{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-image: url(img/R\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.copy{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.logo img{
+    height: 6rem;
+}
